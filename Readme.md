@@ -29,4 +29,5 @@ This is a simple hotel booking assistant that helps you find rooms, book them, a
    - "Can you register me as a new user?"
 
 7. Follow the assistant's prompts and provide information when asked.
+8. Type exit to quit!!
 
