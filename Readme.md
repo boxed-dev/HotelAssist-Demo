@@ -30,8 +30,3 @@ This is a simple hotel booking assistant that helps you find rooms, book them, a
 
 7. Follow the assistant's prompts and provide information when asked.
 
-8. To exit the program, simply type 'exit'.
-
-Remember, when booking a room or registering as a user, you'll need to provide some information. The assistant will guide you through the process.
-
-Enjoy using the Hotel Booking Assistant!
